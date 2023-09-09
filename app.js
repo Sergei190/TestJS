@@ -20,4 +20,4 @@ function factorial(n) {
     }
   
     return true;
-  }
+  } 
